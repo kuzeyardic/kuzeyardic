@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  I am Berke Kuzey Ardıç and I am a freshman in Bilkent University 👋
 
 <!--
 **kuzeyardic/kuzeyardic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
